@@ -1,2 +1,2 @@
 # kubernetes-jenkins
-Kubernetes Manifests for Jnekins
+Kubernetes Manifests for Jenkins
